@@ -1,1 +1,6 @@
-console.log("誰かが変更");
+function greet(){
+ cconsole.log("Hello from the main branch!");
+
+}
+greet();
+
